@@ -7,3 +7,4 @@
 
 * **FllareA** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/FllareA/README.md)
 * **MarkGS** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/MarkGS/README.md)
+* **Tooqie** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/Tooqie/README.md)
