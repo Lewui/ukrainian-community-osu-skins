@@ -8,4 +8,4 @@
 * ### Prawilosc vJP without followpoints (Rafis HD-DT)
 ![Tooqie](https://raw.githubusercontent.com/Lewui/ukrainian-community-osu-skins/master/assets/Tooqie_Prew.png)
 
-## [Download](https://tqe.s-ul.eu/0dItHD7G)
+## [Download](https://alowe.s-ul.eu/7QlGWsoe)
