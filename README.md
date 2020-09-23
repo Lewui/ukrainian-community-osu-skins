@@ -5,4 +5,4 @@
 
 # List of available skins
 
-* **FllareA** - [Checkout](http://github.com)
+* **FllareA** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/FllareA/README.md)
