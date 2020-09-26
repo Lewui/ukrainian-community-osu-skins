@@ -11,3 +11,4 @@
 * **magnatagamer123** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/magnatagamer123/README.md)
 * **Suzuori** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/Suzuori/README.md)
 * **Ponyawka** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/Ponyawka/README.md)
+* **Kryterion** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/Kryterion/README.md)
