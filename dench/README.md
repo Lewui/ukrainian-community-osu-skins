@@ -40,7 +40,7 @@
 
 ## [Download](https://tqe.s-ul.eu/nBfbgzLR)
 
-* ### [Rafis DT + red followslider]
+* ### Rafis DT + red followslider
 ![rafisnew](https://osu.ppy.sh/ss/15502051/aefe)
 
 ## [Download](https://tqe.s-ul.eu/RhJJCAfx)
