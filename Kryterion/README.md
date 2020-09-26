@@ -11,6 +11,6 @@
 ## [Download](https://alowe.s-ul.eu/SBLx08Gn)
 
 * ### crystallized cookie
-![Kryterion](https://raw.githubusercontent.com/Lewui/ukrainian-community-osu-skins/master/assets/Kryterion2_Prew.png)
+![Kryterion](https://skins.osuck.net/uploads/posts/2018-09/1537800520_oqggtfn.jpg)
 
 ## [Download](https://alowe.s-ul.eu/23AiAHvU)
