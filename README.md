@@ -13,4 +13,4 @@
 * **Ponyawka** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/Ponyawka/README.md)
 * **Kryterion** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/Kryterion/README.md)
 * **dench** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/dench/README.md)
-* **- forestguy -** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/dench/README.md)
+* **-forestguy-** - [Checkout](https://github.com/Lewui/ukrainian-community-osu-skins/blob/master/-forestguy-/README.md)
