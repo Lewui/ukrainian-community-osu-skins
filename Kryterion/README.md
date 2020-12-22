@@ -14,3 +14,8 @@
 ![Kryterion](https://skins.osuck.net/uploads/posts/2018-09/1537800520_oqggtfn.jpg)
 
 ## [Download](https://alowe.s-ul.eu/23AiAHvU)
+
+* ### -         《CK》 Bacon boi 1.0 『HDHR』
+![Kryterion](https://skins.osuck.net/uploads/posts/2018-09/1537800520_oqggtfn.jpg)
+
+## [Download](https://drive.google.com/file/d/1KnL3KhZJv81Up6Z-QWFgtNgHo6K9s4yE/view?usp=sharing)
